@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/presets.ts","./src/storage.ts","./src/types.ts","./src/nav/geometry.ts","./src/nav/recast.ts","./src/scene/StudioScene.ts","./src/ui/Controls.tsx"],"version":"5.9.3"}

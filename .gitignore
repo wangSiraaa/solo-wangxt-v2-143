@@ -23,3 +23,8 @@ venv/
 __pycache__/
 .pytest_cache/
 .DS_Store
+
+# 构建与测试产物
+dist/
+test/scenarios.build.mjs
+test/screenshots/*.navmesh.json
